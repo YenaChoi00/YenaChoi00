@@ -23,22 +23,14 @@
           <br/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-          <br/>
-        <p>I can communicate with ..</p>
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">      
     </div>
 </div>
 <br>
 <div style="text-align: left;">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h3>
-    <div style="text-align: left;"> <a href=https://snowflower19.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://snowflower19.tistory.com/"> </a>
+    <div style="text-align: left;">
+        <a href=https://snowflower19.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://snowflower19.tistory.com/"> </a>
          <a href=mailto:yeana1204@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yeana1204@gmail.com"> </a>
-    </div>  <br> 
-    <div style="text-align: left;">  </div> 
-</div>
-<div style="text-align: left;"> 
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h3> <div style="text-align: left;">  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=YenaChoi00" alt="GitHub Stats" /></a>
-    </div> 
+        <a href=https://www.linkedin.com/in/%EC%98%88%EB%82%98-%EC%B5%9C-625487273/> <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%98%88%EB%82%98-%EC%B5%9C-625487273/"> </a>
+    </div>
 </div>
